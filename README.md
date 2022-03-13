@@ -1,1 +1,1 @@
-# file_system_organizer
+File System Organizer project using node js. It requires a source folder as input and creates different folders based on different type of files, for ex: media files, document files, application files, etc are stored in different folders respectively. It groups them based on the file extension, but different extension of same file type are stored is same folder.
